@@ -1,0 +1,47 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: Yicong Chen
+  email: chen.yicong@outlook.com
+#  link: http://painterlin.com
+#  weibo: http://weibo.com/orangeissweet
+  github: https://github.com/Yc-Chen
+#  music: http://site.douban.com/linanya
+  linkedin: https://nl.linkedin.com/in/yicong-chen-37245759
+
+# 站点信息
+title: Yicong Chen's(陈益聪) Blog
+description: My professional blog
+#url: http://painterlin.com
+#rss_url: /pages/atom.xml
+
+# gavatar头像及Favicon
+gavatar: /public/img/cong2.png
+favicon: /public/img/cong2.png
+
+# google analytics 设置 (To see who visited your sebwite and how)
+#ga:
+#  id: UA-54262064-1 
+#  url: painterlin.com
+
+# disqus 设置(comment system)
+#disqus:
+#  shortname: painterlin
+
+# 主题设置，自动激活某个标签
+active: 读书
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Optimization
+  - LaTeX
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档

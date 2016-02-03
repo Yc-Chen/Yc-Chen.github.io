@@ -23,9 +23,9 @@ gavatar: /public/img/cong2.png
 favicon: /public/img/cong2.png
 
 # google analytics 设置 (To see who visited your sebwite and how)
-#ga:
-#  id: UA-54262064-1 
-#  url: painterlin.com
+ga:
+  id: UA-73303707-1 
+  url: yc-chen.github.com
 
 # disqus 设置(comment system)
 #disqus:

@@ -28,16 +28,18 @@ It took me a while to realize what happened. The biggest truth is that I'm in a 
 
 Now talking to my peers, I noticed this is happening with everyone. If he/she manages to keep good social connection, then it must be one of the following:
 
-* They are surrounded by many people of the similar age.
 * They are in a hobby group.
+* They are surrounded by many people of the similar age.
 * They are locals.
 
-Among which the first two can be general tips for internationals.
+From which it can be considered that finding a hobby can be a general tip for internationals.
 
-### How to plan for your study and career.
-</Study cost, immigration issue, Dutch language, internships/graduation project, keeping contacts with supervisors for PhD offers or other references. >
+<!-- ### How to plan for your study and career.-->
+<!-- Study cost, immigration issue, Dutch language, internships/graduation project, keeping contacts with supervisors for PhD offers or other references. -->
 
-### How to make efficient use of free time. 
-</Parties vs. volunteer work vs. freelancer vs. side job.>
+
+
+<!-- ### How to make efficient use of free time. -->
+<!-- /Parties vs. volunteer work vs. freelancer vs. side job. -->
 
 *This was shared as a speech on the [International Career Day](https://www.facebook.com/events/1459938794302655/) on September 9th, 2015. It was organized by The Hub Eindhoven and the Expat Spouse Initiative. I was invited through the TU Eindhoven Career Center to share my experience as an international students. This blog is written afterwards based on the outline of the speech.*

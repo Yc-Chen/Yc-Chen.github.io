@@ -5364,7 +5364,7 @@ a.list-group-item-lay:hover, a.list-group-item-lay:focus {
 }
 
 a.list-group-item-lay {
-    color: #917cd6; /*fff*/
+    color: #68a32c; /*fff*/
 }
 
 .list-group-item:first-child {

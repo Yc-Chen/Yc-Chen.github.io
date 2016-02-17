@@ -28,8 +28,8 @@ ga:
   url: yc-chen.github.com
 
 # disqus 设置(comment system)
-#disqus:
-#  shortname: painterlin
+disqus:
+  shortname: yc-chen
 
 # 主题设置，自动激活某个标签
 active: 读书

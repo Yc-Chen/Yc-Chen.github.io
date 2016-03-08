@@ -4,7 +4,7 @@ title: What anyone can do with 3D printing as a hobby project
 category: Technology
 tags: 3DPrinting
 keywords: 3DPrinting, hobby, design, manufacturing
-description: My understanding of 3D printing industry.
+description: Here is my understanding of 3D printing industry after reading 'Fabricated, The New World of 3D Printing' and going to a 3D printing electronics conference. I also listed some areas that can be explored as a personal hobby project.
 ---
 
 Although people have been talking about 3D printing for a while, I rarely see creative projects with 3D printing. People are obsessed with merely printing models. They are pretty and look twisted but after seeing hundreds of hobby projects like this, I get bored. 

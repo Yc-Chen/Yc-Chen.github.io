@@ -3,8 +3,8 @@ layout: post
 title: My Experience and Tips for International Students in The Netherlands
 category: Career
 tags: Career
-keywords: bla, blabla
-description: some description that i don't know where to go
+keywords: Eindhoven, expats, experience, student, master
+description: This is about my own experience and tips from the view of a Chinese student first-time studying in Netherlands. Here I talk about difficulties of the language and the social network and how to deal with it. 
 ---
 
 Being a Chinese student that never studied abroad before and found a job in The Netherlands after a two-year program, I believe I have experienced the biggest cultural difference and have successfully adapted to the local life, both socially and professionally. I tried a lot of things during my student life; there are some stuffs that I wish I have done and some stuffs that I don't have to care so much. I would like to share my experience and hope it can help others to overcome their challenges.

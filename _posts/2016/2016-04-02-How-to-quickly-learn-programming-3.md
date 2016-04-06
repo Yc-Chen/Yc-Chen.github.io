@@ -4,10 +4,10 @@ title: How to quickly learn programming - 3. Small scale map, different programm
 category: Technology
 tags: Programming
 keywords: Programming, OpenCV, Blender, hobby
-description: It is never difficult to learn the syntax of a programming language. The real challenge is how to deal with the overwelmed information and find a good place to start. In this post I'm trying to scetch a map of programming, ranging from the microchips to the front end. Then for those who want to start to learn programming from scratch, it will become easier to know where to start and dive deeper.
+description: It is never difficult to learn the syntax of a programming language. The real challenge is how to deal with the overwelmed information and find a good place to start. In this series of posts I'm trying to scetch an overview of programming; it consists 3 maps from the top level to the bottom level. Then for those who want to start to learn programming from scratch, it will become easier to know where to start and dive deeper. This series of posts is intended for people having at least a bachelor's or a master's degree so that there is some knowledge system established. It will be useful in learning programming.
 ---
 
-It is never difficult to learn the syntax of a programming language. The real challenge is how to deal with the overwelmed information and find a good place to start. In this post I'm trying to scetch a map of programming, ranging from the microchips to the front end. Then for those who want to start to learn programming from scratch, it will become easier to know where to start and dive deeper.
+It is never difficult to learn the syntax of a programming language. The real challenge is how to deal with the overwelmed information and find a good place to start. In this series of posts I'm trying to scetch an overview of programming; it consists 3 maps from the top level to the bottom level. Then for those who want to start to learn programming from scratch, it will become easier to know where to start and dive deeper. This series of posts is intended for people having at least a bachelor's or a master's degree so that there is some knowledge system established. It will be useful in learning programming.
 
 ### 3 - Small scale map, different programming languages styles
 Now after the big map and the median map, in the small map I'm going to sketch the different styles of programming languages.

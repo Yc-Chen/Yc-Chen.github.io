@@ -23,6 +23,16 @@ Flask is a micro web framework written in Python. The online documentation is [h
 
 It is only at this stage I start building the knowledge of my own. From the document I read what are the recommended ways of using APIs, how to structure the project and what is package-specific. For example I have been wondering what is the difference in html templates between `{ { something } }` and `{ % something % }`. Searching 'html curl braket' does give me an explanation on **what is the difference**. But the document is able to explain **why is the difference**, which is due to the Jinjia template, something resembles Django format. The document also helps me find out the deprecated codes, which I copied from other projects.
 
+The last two steps are iterative and that's what makes learning feel difficult. I borrow the labyrinth in the Maze Runner as an example to illustrate it. 
+
+* When you don't have the god view and need to go back and forth many times to find a solution, it feels difficult.
+
+![1](/public/img/posts/maze.jpg "difficult feeling")
+
+* When you have the god view and you can speed up the trial and error, it feels easy.
+
+![2](/public/img/posts/maze_god_view.jpg "god view")
+
 
 
 

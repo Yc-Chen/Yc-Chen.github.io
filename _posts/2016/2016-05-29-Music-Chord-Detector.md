@@ -7,7 +7,7 @@ keywords: Programming, hobby, computer vision
 description: description
 ---
 
-Recently I got an idea about using machine learning to build a music chord detector. A quick google search shows that some work has been done in this field but no good open source tool for that. Existing chord detection tools are based on chromagrames, which is not sufficient in feeling the 'mood' or subtleties in chord progression. Chord progression for music is a bit like object recognition in computer vision.
+Recently I got an idea about using machine learning to build a music chord detector. A quick google search shows that some work has been done in this field but no good open source tool for that. Existing chord detection tools are based on chromagrames, which is not sufficient in feeling the 'mood' or subtleties in chord progression. Chord progression for music is a bit like object recognition in computer vision; there is some complex non-linear neural-network-like process happend in chord recognition.
 
 A machine learning project always needs a good database. I start with labeling chords for songs. To start with, I set a goal of 120 songs, only 4-beat songs, no blues chord, human voice preferred. Now I'm busy with that.
 

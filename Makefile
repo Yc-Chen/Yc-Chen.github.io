@@ -1,2 +1,2 @@
-clean-tmp:
+clean-temp:
 	find . -name '*~' -exec rm -f {} +

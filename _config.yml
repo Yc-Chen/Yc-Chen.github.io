@@ -3,20 +3,19 @@ paginate: 10
 markdown: kramdown
 
 # 作者信息
-author: 
+author:
   name: Yicong Chen
   email: chen.yicong@outlook.com
 #  link: http://painterlin.com
-#  weibo: http://weibo.com/orangeissweet
   github: https://github.com/Yc-Chen
-#  music: http://site.douban.com/linanya
+#  music: http://soundcloud
   linkedin: https://nl.linkedin.com/in/yicong-chen-37245759
 
 # 站点信息
 title: Yicong Chen's(陈益聪) Blog
-description: My professional blog
+description: Yicong Chen's professional blog
 #url: http://painterlin.com
-#rss_url: /pages/atom.xml
+rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
 gavatar: /public/img/cong2.png
@@ -24,7 +23,7 @@ favicon: /public/img/cong2.png
 
 # google analytics 设置 (To see who visited your sebwite and how)
 ga:
-  id: UA-73303707-1 
+  id: UA-73303707-1
   url: yc-chen.github.com
 
 # disqus 设置(comment system)
@@ -35,7 +34,7 @@ disqus:
 active: 读书
 
 # 首页除了最新文章外显示分类
-#cates: 
+#cates:
 #  - Optimization
 #  - LaTeX
 

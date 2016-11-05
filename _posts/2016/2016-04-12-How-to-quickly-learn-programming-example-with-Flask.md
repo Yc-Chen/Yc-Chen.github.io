@@ -25,13 +25,13 @@ It is only at this stage I start building the knowledge of my own. From the docu
 
 The last two steps are iterative and that's what makes learning feel difficult. I borrow the labyrinth in the Maze Runner as an example to illustrate it. 
 
-* When you don't have the god view and need to go back and forth many times to find a solution, it feels difficult.
+* When you don't have the Bird's-eye view and need to go back and forth many times to find a solution, it feels difficult.
 
 ![1](/public/img/posts/maze.jpg "difficult feeling")
 
-* When you have the god view and you can speed up the trial and error, it feels easy.
+* When you have the Bird's-eye view and you can speed up the trial and error, it feels easy.
 
-![2](/public/img/posts/maze_god_view.jpg "god view")
+![2](/public/img/posts/maze_god_view.jpg "bird's-eye view")
 
 
 

@@ -1,0 +1,25 @@
+---
+layout: page
+title: <i class="fa fa-user fa-lg"></i>
+titlename: about(关于)
+permalink: "/tags/"
+---
+{% for tag in site.tags %}
+<div class="col-md-4 col-sm-6">
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h4 class="panel-title">
+        <a data-toggle="collapse" href="#{{ tag[0] }}">{{ tag[0] }}</a>
+        <span class="badge pull-right">{{ tag[1].size }}</span>
+      </h4>
+    </div>
+    <div id="{{ tag[0] }}" class="panel-collapse">
+      {% for post in tag[1] %}
+        <a  href='{{ post.url }}' class="list-group-item pjaxlink">
+          {{post.title}}
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+{% endfor %}

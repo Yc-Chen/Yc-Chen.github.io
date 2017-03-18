@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to quickly learn programming - 1. big scale map, comparing programming to other fields of engineering
-category: Technology
+category: Blogs
 tags: Programming
 keywords: Programming, Engineering, hobby
 description: It is never difficult to learn the syntax of a programming language. The real challenge is how to deal with the overwelmed information and find a good place to start. In this series of posts I'm trying to scetch an overview of programming; it consists 3 maps from the top level to the bottom level. Then for those who want to start to learn programming from scratch, it will become easier to know where to start and dive deeper. This series of posts is intended for people having at least a bachelor's or a master's degree so that there is some knowledge system established. It will be useful in learning programming.

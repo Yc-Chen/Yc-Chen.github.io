@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Commemorative Journey on 3D Printed Coins
-category: Technology
+category: Blogs
 tags: 3DPrinting, OpenCV, Blender
 keywords: 3DPrinting, OpenCV, Blender, hobby
 description: A summary of the face coin project. It failed due to not enough resolution. However it's been fun to explorer the technology.
@@ -18,10 +18,10 @@ and lots of 3D printed legacies:
 Many thanks to Richard for helping me setting up the 3D printer!
 
 ### Where it started
-Last year(2015) September I went with 
+Last year(2015) September I went with
 [IdeeënLab](http://www.ideeenlab.nl/) to the [Eindhoven Maker Faire](http://www.eindhovenmakerfaire.nl/archive/eindhoven-maker-faire-2015/). During the fair we provided a face-coin service to the visitors. We asked visitors to sit down to take a photo of their face profile. Then we used Blender software to build a coin model with the face profile. The visitors can pick up their own face-coin from a 3D printer. People liked it a lot for it being a sentimental article, something they can put as home exhibition or as an attachment on their bags.
 
-Then I started to think: I know OpenCV, I know Python and Blender has a Python interface; why not make an online automatic 3D printing service using using Python to combine Blender and OpenCV? 
+Then I started to think: I know OpenCV, I know Python and Blender has a Python interface; why not make an online automatic 3D printing service using using Python to combine Blender and OpenCV?
 
 There came the project of face-coin.
 
@@ -38,5 +38,3 @@ The big failure comes to the 3D printer. When I finally build the face-coin mode
 From this project I learned a lot about Blender. Maybe there is some interesting stuff to work on. The Blender has a special type of mesh programming, BMesh, which provides much more flexibility than the traditional mesh generators. It gives you control over each single node, line and surface. But theres aren't many existing tools to use it yet. It could be useful to start a Github project to develop a plugin based on BMesh.
 
 The tool can be interesting for other ideas. If lowing the requirement of resolution, one can think of, for example, a signature seal. Otherwise it is also good idea to go for higher resolution 3D Printing methods, like metal or glass.
-
-

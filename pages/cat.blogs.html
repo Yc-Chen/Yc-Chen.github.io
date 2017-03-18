@@ -1,14 +1,14 @@
 ---
 layout: page
-title: blogs(博客)
+title: about(关于)
 titlename: about(关于)
-permalink: "/blogs/"
+permalink: "/career/"
 ---
 <div class="row">
   <div class="col-lg-12">
     <div class="panel panel-default">
-      <div class="panel-heading">Blogs</div>
-      {% for post in site.categories.blogs %}
+      <div class="panel-heading">Career</div>
+      {% for post in site.categories.career %}
         <a  href='{{ post.url }}' class="list-group-item pjaxlink clearfix">
           {{post.title}}
           <span class="badge">{{ post.date | date:"%Y年%m月%d日" }}</span>

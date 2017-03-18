@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JavaScript prototype vs. Python class
-category: Technology
+category: Blogs
 tags: 'Programming, Python, JavaScript, ECMAScript6'
 keywords: 'Programming,'
 description: description
@@ -113,4 +113,4 @@ JavaScript and Python share many similarities. JavaScript is a prototype-based l
 
 
 ### Summary
-JavaScript is more ['descriptive'](#retrieving-object-attributes) than Python and its [structure is more flexible](#adding-methods-dynamically) than Python. 
+JavaScript is more ['descriptive'](#retrieving-object-attributes) than Python and its [structure is more flexible](#adding-methods-dynamically) than Python.

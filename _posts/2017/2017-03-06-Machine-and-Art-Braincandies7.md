@@ -1,7 +1,7 @@
 ---
 layout: post_extended
 title: Machine and Art at BRAINCANDIES#7
-category: Technology
+category: Blogs
 tags: 'Machine Learning, AI, Art, Ethics'
 keywords: 'Art,'
 description: description

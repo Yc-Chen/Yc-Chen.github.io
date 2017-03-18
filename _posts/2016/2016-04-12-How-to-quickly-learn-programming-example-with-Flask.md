@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to quickly learn programming - my example with Flask
-category: Technology
+category: Blogs
 tags: Programming
 keywords: Programming, OpenCV, Blender, hobby
 description: It is never difficult to learn the syntax of a programming language. The real challenge is how to deal with the overwelmed information and find a good place to start. In this series of posts I'm trying to scetch an overview of programming; it consists 3 maps from the top level to the bottom level. Then for those who want to start to learn programming from scratch, it will become easier to know where to start and dive deeper. This series of posts is intended for people having at least a bachelor's or a master's degree so that there is some knowledge system established. It will be useful in learning programming.
@@ -19,11 +19,11 @@ Flask is a micro web framework written in Python. The online documentation is [h
 
 **I started my development by forking other Github projects, not by the Flask document.** Apart from Google's search tool, Github's search tool is also very powerful. I found several similar projects and started my development by changing '_\_author__´. :-P In the beginning examples are much more useful than the documents. Documents for programming is like dictionaries for languages. No one starts learning a language by reading dictionaries.
 
-**When I finished my MVP, I started reading the Flask document.** MVP is short for minimum viable product. It means something working with the least functionality. With the MVP running, I start reading the document to learn other APIs to think how to make it better. Even if I mess up something, I can always roll back to the MVP. 
+**When I finished my MVP, I started reading the Flask document.** MVP is short for minimum viable product. It means something working with the least functionality. With the MVP running, I start reading the document to learn other APIs to think how to make it better. Even if I mess up something, I can always roll back to the MVP.
 
 It is only at this stage I start building the knowledge of my own. From the document I read what are the recommended ways of using APIs, how to structure the project and what is package-specific. For example I have been wondering what is the difference in html templates between `{ { something } }` and `{ % something % }`. Searching 'html curl braket' does give me an explanation on **what is the difference**. But the document is able to explain **why is the difference**, which is due to the Jinjia template, something resembles Django format. The document also helps me find out the deprecated codes, which I copied from other projects.
 
-The last two steps are iterative and that's what makes learning feel difficult. I borrow the labyrinth in the Maze Runner as an example to illustrate it. 
+The last two steps are iterative and that's what makes learning feel difficult. I borrow the labyrinth in the Maze Runner as an example to illustrate it.
 
 * When you don't have the Bird's-eye view and need to go back and forth many times to find a solution, it feels difficult.
 
@@ -32,7 +32,3 @@ The last two steps are iterative and that's what makes learning feel difficult. 
 * When you have the Bird's-eye view and you can speed up the trial and error, it feels easy.
 
 ![2](/public/img/posts/maze_god_view.jpg "bird's-eye view")
-
-
-
-

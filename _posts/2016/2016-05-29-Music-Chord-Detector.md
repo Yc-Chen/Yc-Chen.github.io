@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Machine Learning Based Music Chord Detector
-category: Technology
+category: Blogs
 tags: Programming, Machine Learning
 keywords: Programming, hobby, computer vision
 description: Use machine learning to predict or detect music chord progression.

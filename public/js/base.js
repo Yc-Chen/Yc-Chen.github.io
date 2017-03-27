@@ -25,7 +25,7 @@ function nav_click(is_show) {
     /* 修改文字排版 */
     $('.aside3-content')
       .removeClass('col-md-13')
-      .addClass('col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2'); 
+      .addClass('col-md-10 col-lg-8 col-md-offset-1 col-lg-offset-2');
   }  /*col-md-offset-1 col-lg-offset-2*/
 }
 /* 控制文章章节列表按钮 */
@@ -40,34 +40,10 @@ function content_click(is_show){
 }
 
 $(document).ready(function() {
-  /* 控制左侧 aside 的动作 */
-  $("#nav_btn").on('click', function() {
-    isClicked = $(this).data('clicked');
 
-    nav_click(isClicked);
-
-    $(this).data('clicked', !isClicked);
-  });
-
-  $("#content_btn").on('click', function(){
-    isClicked = $(this).data('clicked');
-
-    content_click(!isClicked);
-
-    $(this).data('clicked',!isClicked);
-
-  });
-
-  $(document).pjax('.pjaxlink', '#pjax', { fragment: "#pjax", timeout: 10000 });
-  $(document).on("pjax:end", function() {
-    if($("body").find('.container').width() < 992)
-      $('#nav_btn').click();
-    $('.aside3').scrollTop(0);
-    contentEffects();
-  });
-  $('body').on('click', '.show-commend', function(){
+  $('body').on('click', '.show-comment', function(){
     var ds_loaded = false;
-    window.disqus_shortname = $('.show-commend').attr('name');
+    window.disqus_shortname = $('.show-comment').attr('name');
     $.ajax({
       type: "GET",
       url: "http://" + disqus_shortname + ".disqus.com/embed.js",
@@ -86,9 +62,9 @@ function contentEffects(){
         current.attr("id", "title" + i);
         tag = current.prop('tagName').substr(-1);
         $("#nav").append("<div style='margin-left:"+15*(tag-1)+"px'><a id='link" + i + "' href='#title" +i + "'>" + current.html() + "</a></div>");
-    }); 
+    });
     $("pre").addClass("prettyprint");
-    prettyPrint(); 
+    prettyPrint();
     $('#content img').addClass('img-thumbnail').parent('p').addClass('center');
     $('#content_btn').show();
   }else{

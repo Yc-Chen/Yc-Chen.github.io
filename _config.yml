@@ -14,7 +14,7 @@ author:
 # 站点信息
 title: Yicong Chen's(陈益聪) Blog
 description: Yicong Chen's professional blog
-#url: http://painterlin.com
+url: http://yc-chen.github.io
 rss_url: /pages/atom.xml
 
 # gavatar头像及Favicon
@@ -29,6 +29,7 @@ ga:
 # disqus 设置(comment system)
 disqus:
   shortname: yc-chen
+  id: yicongchen
 
 # 主题设置，自动激活某个标签
 active: 读书
